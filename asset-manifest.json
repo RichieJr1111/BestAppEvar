@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/BestAppEvar/static/css/main.073c9b0a.css",
-    "main.js": "/BestAppEvar/static/js/main.b6a7313b.js",
-    "static/js/787.38480255.chunk.js": "/BestAppEvar/static/js/787.38480255.chunk.js",
-    "static/media/logo.svg": "/BestAppEvar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/BestAppEvar/static/css/main.e6c13ad2.css",
+    "main.js": "/BestAppEvar/static/js/main.0cea2ba9.js",
+    "static/js/787.f0541287.chunk.js": "/BestAppEvar/static/js/787.f0541287.chunk.js",
     "index.html": "/BestAppEvar/index.html",
-    "main.073c9b0a.css.map": "/BestAppEvar/static/css/main.073c9b0a.css.map",
-    "main.b6a7313b.js.map": "/BestAppEvar/static/js/main.b6a7313b.js.map",
-    "787.38480255.chunk.js.map": "/BestAppEvar/static/js/787.38480255.chunk.js.map"
+    "main.e6c13ad2.css.map": "/BestAppEvar/static/css/main.e6c13ad2.css.map",
+    "main.0cea2ba9.js.map": "/BestAppEvar/static/js/main.0cea2ba9.js.map",
+    "787.f0541287.chunk.js.map": "/BestAppEvar/static/js/787.f0541287.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b6a7313b.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0cea2ba9.js"
   ]
 }
